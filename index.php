@@ -23,7 +23,7 @@
             </div>
         </header>
         <!-- Productos-->
-        <?php include('productos.php') ?>                                     <!--Módulo productos-->
+        <?php include('C:\Users\laura\Downloads\shp_template_1630947413202\shp template\productos.php') ?>                                   <!--Módulo productos-->
         <!-- Contacto-->
         <?php include('footer.php') ?>                                        <!--Módulo footer-->
 
